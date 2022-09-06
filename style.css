@@ -1,3 +1,16 @@
+.lista {
+    color: red;
+    font-size: 30;    
+}   
+ 
+#imagem {
+    text-align: center;
+}
+
+#link {
+    text-align: center:
+}
+
 p {
     color: red;
     font-size: 30;
@@ -8,10 +21,4 @@ h1 {
     color: blue;
     font-size: 50;
     text-align: center;
-}
-
-h2 {
-    color: green;
-    font-size: 40;
-    text-align: right;
 }
