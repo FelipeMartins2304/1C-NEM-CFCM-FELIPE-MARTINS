@@ -22,3 +22,9 @@ h1 {
     font-size: 50;
     text-align: center;
 }
+
+h2 {
+    color: green;
+    font-size: 40;
+    text-align: right;
+}
