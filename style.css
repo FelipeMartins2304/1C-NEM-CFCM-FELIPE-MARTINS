@@ -2,7 +2,11 @@
     color: red;
     font-size: 30;    
 }   
- 
+
+.minhalista {
+    color: red;
+}
+
 #imagem {
     text-align: center;
 }
