@@ -36,7 +36,10 @@
     background: black;
 }
 
+
+
 #destaque {
+    
     border: 5px;
     border-style: dashed;
     border-color: blue;
@@ -47,9 +50,20 @@
     padding-top:30px;
     padding-bottom: 30px;
     margin-left: 500px;
-    margin-right: 500px;
+    margin-right: 500px;   
     background: yellow;
 }
+
+#lateral {
+    float: right;
+}
+
+#imagem {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+   
 
 #link {
     text-align: center:
